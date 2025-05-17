@@ -16,7 +16,7 @@ import FavouriteProducts from "./Pages/FavouriteProducts";
 import RegisterPage from "./Pages/RegisterPage";
 import LoginPage from "./Pages/LoginPage";
 import About from "./Pages/About";
-import ResetPassword from "./Pages/resetPassword";
+import ResetPassword from "./Pages/RegisterPage";
 import Contact from "./Pages/Contact";
 
 const Layout = () => {
